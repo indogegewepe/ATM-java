@@ -1,6 +1,6 @@
 # ATM-java
 
-Alur Program
+## Alur Program
 
 • Program akan meminta pengguna memasukkan PIN.<br><br>
 • Jika benar akan tampil menu: penarikan, informasi saldo, transfer dan keluar. Jika salah maka akan meminta kembali memasukkan PIN. Dan jika PIN yang dimasukan sudah salah lebih dari 3x, maka munculkan pesan bahwa “ATM Terblokir” dan program berhenti<br><br>
